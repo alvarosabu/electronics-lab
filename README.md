@@ -1,41 +1,35 @@
-## Software version ##
-* ```arduino ide -v```  : v1.8.2
+![repository-banner.png](https://res.cloudinary.com/alvarosaburido/image/upload/v1564929632/as-readme-banner_tqdgrx.png)
+
+## Software version
+
+- `arduino ide -v` : v1.8.12
+
+---
+
+# Electronics Laboratory Playground
+
+> An electronics Laboratory Playground
+
+This repo serves as an electronics laboratory playground for:
+- [Arduino](https://www.arduino.cc/)
+- [Particle.io](https://www.particle.io/)
 
 
-___
-
-
-# Arduino Laboratory Playground
-
-> An Arduino lab featuring sketches for [Arduino Boards](https://www.arduino.cc)
-
-This repo serves as an Arduino laboratory playground 
-* Basic
-* Digital
-* Analog
-* Communications
-* Control Structures
-* Sensor
-* Display
-* Strings
-* USB
-* Bridge Library for [Yún](https://www.arduino.cc/en/Main/ArduinoBoardYun) 
-* EEPROM
-* Ethernet for [Ethernet Shield](https://www.arduino.cc/en/Main/ArduinoEthernetShield)
-* LCD
-* SD
-* Servo
- 
 # Support, Questions, or Feedback
+
 > Contact me anytime for anything about this repo
 
-* [Email: Alvaro Saburido]
-* [Twitter: @shevastation](https://twitter.com/shevastation)
+- [Email: Alvaro Saburido]
+- [Twitter: @alvaro.saburido1](https://twitter.com/alvaro.saburido1)
 
+# Development
 
+## Serial Monitor
 
-___
+To activate the serial monitor on your console just run `serial:monitor`;
+
+---
 
 # License
- [MIT](/LICENSE)
 
+[MIT](/LICENSE)

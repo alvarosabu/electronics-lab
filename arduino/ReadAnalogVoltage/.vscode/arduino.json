@@ -1,0 +1,7 @@
+{
+    "port": "/dev/tty.usbmodem14101",
+    "board": "arduino:avr:yun",
+    "sketch": "src/ReadAnalogVoltage.ino",
+    "programmer": "Arduino as ISP",
+    "output": "./target"
+}

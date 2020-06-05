@@ -1,0 +1,7 @@
+{
+    "port": "/dev/tty.usbmodem1442201",
+    "board": "arduino:avr:yun",
+    "sketch": "src/YunSensorMote.ino",
+    "programmer": "Arduino as ISP",
+    "output": "../target"
+}
