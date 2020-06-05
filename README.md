@@ -20,7 +20,7 @@ This repo serves as an electronics laboratory playground for:
 > Contact me anytime for anything about this repo
 
 - [Email: Alvaro Saburido]
-- [Twitter: @shevastation](https://twitter.com/shevastation)
+- [Twitter: @alvaro.saburido1](https://twitter.com/alvaro.saburido1)
 
 # Development
 

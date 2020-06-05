@@ -2,5 +2,6 @@
     "C_Cpp.intelliSenseEngine": "Tag Parser",
     "files.associations": {
         "*.ino": "cpp"
-    }
+    },
+    "cortex-debug.openocdPath": "${command:particle.getDebuggerOpenocdPath}"
 }
